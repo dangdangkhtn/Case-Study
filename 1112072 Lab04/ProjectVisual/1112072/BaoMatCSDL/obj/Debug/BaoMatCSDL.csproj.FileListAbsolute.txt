@@ -1,0 +1,22 @@
+c:\users\thd\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\bin\Debug\BaoMatCSDL.exe.config
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\bin\Debug\BaoMatCSDL.exe
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\bin\Debug\BaoMatCSDL.pdb
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\bin\Debug\EntityFramework.dll
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\bin\Debug\EntityFramework.xml
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\obj\Debug\BaoMatCSDL.csprojResolveAssemblyReference.cache
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\obj\Debug\BaoMatCSDL.frmLogin.resources
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\obj\Debug\BaoMatCSDL.Properties.Resources.resources
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\obj\Debug\BaoMatCSDL.csproj.GenerateResource.Cache
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\obj\Debug\BaoMatCSDL.exe
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\obj\Debug\BaoMatCSDL.pdb
+C:\Users\THD\documents\visual studio 2013\Projects\BaoMatCSDL\BaoMatCSDL\obj\Debug\BaoMatCSDL.frmDanhSachSinhVien.resources
+E:\Ebook\Ebook\2013-2014\Bao Mat CSDL\1112072 Lab04\ProjectVisual\1112072\BaoMatCSDL\bin\Debug\BaoMatCSDL.exe.config
+E:\Ebook\Ebook\2013-2014\Bao Mat CSDL\1112072 Lab04\ProjectVisual\1112072\BaoMatCSDL\obj\Debug\BaoMatCSDL.exe
+E:\Ebook\Ebook\2013-2014\Bao Mat CSDL\1112072 Lab04\ProjectVisual\1112072\BaoMatCSDL\obj\Debug\BaoMatCSDL.pdb
+E:\Ebook\Ebook\2013-2014\Bao Mat CSDL\1112072 Lab04\ProjectVisual\1112072\BaoMatCSDL\obj\Debug\BaoMatCSDL.csprojResolveAssemblyReference.cache
+E:\Ebook\Ebook\2013-2014\Bao Mat CSDL\1112072 Lab04\ProjectVisual\1112072\BaoMatCSDL\obj\Debug\BaoMatCSDL.frmDanhSachSinhVien.resources
+E:\Ebook\Ebook\2013-2014\Bao Mat CSDL\1112072 Lab04\ProjectVisual\1112072\BaoMatCSDL\obj\Debug\BaoMatCSDL.frmLogin.resources
+E:\Ebook\Ebook\2013-2014\Bao Mat CSDL\1112072 Lab04\ProjectVisual\1112072\BaoMatCSDL\obj\Debug\BaoMatCSDL.Properties.Resources.resources
+E:\Ebook\Ebook\2013-2014\Bao Mat CSDL\1112072 Lab04\ProjectVisual\1112072\BaoMatCSDL\obj\Debug\BaoMatCSDL.csproj.GenerateResource.Cache
